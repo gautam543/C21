@@ -1,2 +1,2 @@
-# C21
-myLib.js
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
